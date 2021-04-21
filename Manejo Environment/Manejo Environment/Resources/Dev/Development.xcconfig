@@ -1,0 +1,14 @@
+//
+//  Development.xcconfig
+//  Manejo Environment
+//
+//  Created by Riccardo Mija Padilla on 21/04/21.
+//
+
+// Configuration settings file format documentation can be found at:
+// https://help.apple.com/xcode/#/dev745c5c974
+
+
+XCC_ENVIRONMENT = Desarrollo
+APP_NAME = ME Desarrollo
+
